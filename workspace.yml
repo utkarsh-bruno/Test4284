@@ -4,6 +4,8 @@ info:
   type: workspace
 
 collections:
+  - name: "Dog API"
+    path: "collections/dog-v2"
 
 specs:
 

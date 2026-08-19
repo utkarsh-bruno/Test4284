@@ -1,0 +1,3 @@
+[submodule "collections/dog-v2"]
+	path = collections/dog-v2
+	url = https://github.com/utkarsh-bruno/dog-v2.git
